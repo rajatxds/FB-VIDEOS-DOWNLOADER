@@ -5,7 +5,10 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 flex flex-col items-center justify-center gap-4">
         <div className="flex flex-col items-center gap-3 text-gray-400 text-sm font-medium">
           <p>
+            <p>
+            Created by ❤️ <a href="https://www.facebook.com/Dark.User.Professor" target="_blank" rel="noopener noreferrer" className="text-white font-bold hover:text-blue-400 transition-colors">Professor Imamul Islam</a> & <span className="text-white font-bold">Inception</span>
             Created by 
+          </p>
           </p>
           <div className="flex items-center gap-5 mt-1">
             <a href="https://github.com/creationofprofessor" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-white transition-colors border border-white/10 px-3 py-1.5 rounded-lg glass hover:bg-white/10">
